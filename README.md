@@ -53,6 +53,18 @@ Soy **Cesar Edu**, un desarrollador en formación apasionado por el código limp
 </div>
 
 ---
+## 📊 Estadísticas de Combate (Status)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Palomino128&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats de Palomino128" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palomino128&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes de Palomino128" height="170px" />
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Palomino128&theme=tokyonight&hide_border=true" alt="Racha de Palomino128" />
+</div>
+
+---
 
 ## 🏆 Quest Log (Proyectos)
 
