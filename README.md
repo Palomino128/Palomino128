@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/f0d31fc7-6095-45d4-9af2-0775fd8f5ae2" width="160" style="border-radius:50%; border: 4px solid #16D9E3; box-shadow: 0 0 20px #3456FF;" alt="Avatar de Edu Palomino"/>
+  <img src="https://github.com/user-attachments/assets/f0d31fc7-6095-45d4-9af2-0775fd8f5ae2" width="160" style="border-radius:50%; border: 4px solid #16D9E3; box-shadow: 0 0 20px #3456FF;" alt="Avatar de Cesar Edu Palomino Berrocal"/>
   
   <br><br>
   
@@ -22,7 +22,7 @@
 
 ## 📜 Perfil del Jugador (About Me)
 
-Soy **Cesar Edu**, un desarrollador en formación apasionado por el código limpio y los videojuegos. Me especializo en el diseño y análisis de software, combinando la lógica de la ingeniería con la creatividad del gaming.
+Soy **Cesar Edu Palomino Berrocal**, un desarrollador en formación apasionado por el código limpio y los videojuegos. Me especializo en el diseño y análisis de software, combinando la lógica de la ingeniería con la creatividad del gaming.
 
 * 🔭 **Actualmente:** Cursando Ingeniería de Sistemas e Informática en la **UTP**.
 * 🎯 **Objetivo:** Construir soluciones funcionales (y subir de nivel en mis habilidades).
