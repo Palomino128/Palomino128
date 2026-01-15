@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 Sobre mí (Professional Profile)
+## 🚀 Sobre mí
 
 Soy **Edu Palomino**, estudiante de **Ingeniería de Sistemas e Informática**. Mi enfoque principal es el estudio profundo de los lenguajes de programación y la evolución constante de la tecnología. Actualmente, dedico gran parte de mi formación a investigar el impacto y la implementación de la **Inteligencia Artificial**.
 
@@ -24,7 +24,7 @@ Soy **Edu Palomino**, estudiante de **Ingeniería de Sistemas e Informática**. 
 
 ---
 
-## 🎒 Tecnologías y Lenguajes (Tech Stack)
+## 🎒 Tecnologías y Lenguajes
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,python,cpp,react,html,css,js,mysql,postgres,git,github,vscode,idea,pycharm&theme=dark" />
@@ -32,7 +32,7 @@ Soy **Edu Palomino**, estudiante de **Ingeniería de Sistemas e Informática**. 
 
 ---
 
-## 🏆 Proyectos Destacados (Portfolio)
+## 🏆 Proyectos Destacados
 
 | Proyecto | Áreas de Enfoque | Descripción |
 | :--- | :--- | :--- |
