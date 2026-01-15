@@ -9,14 +9,14 @@
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=16D9E3&center=true&vCenter=true&width=550&lines=Futuro+Ingeniero+de+Sistemas;Entusiasta+de+la+Inteligencia+Artificial;Apasionado+por+nuevos+lenguajes;Aprendizaje+Tecnológico+Continuo" alt="Typing SVG" />
 
-  <p>📍 <b>Arequipa, Perú 🇵🇪 | Universidad Tecnológica del Perú (UTP)</b></p>
+  <p>📍 <b>Arequipa, Perú 🇵🇪 | UTP</b></p>
 </div>
 
 ---
 
 ## 🚀 Sobre mí (Professional Profile)
 
-Soy **Edu Palomino **, estudiante de **Ingeniería de Sistemas e Informática**. Mi enfoque principal es el estudio profundo de los lenguajes de programación y la evolución constante de la tecnología. Actualmente, dedico gran parte de mi formación a investigar el impacto y la implementación de la **Inteligencia Artificial**.
+Soy **Edu Palomino**, estudiante de **Ingeniería de Sistemas e Informática**. Mi enfoque principal es el estudio profundo de los lenguajes de programación y la evolución constante de la tecnología. Actualmente, dedico gran parte de mi formación a investigar el impacto y la implementación de la **Inteligencia Artificial**.
 
 * 📚 **En constante aprendizaje:** Explorando nuevas sintaxis y paradigmas de programación.
 * 🤖 **Interés en IA:** Análisis de modelos y automatización inteligente.
