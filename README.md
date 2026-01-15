@@ -54,23 +54,30 @@ Soy **Cesar Edu**, un desarrollador en formación apasionado por el código limp
 
 ---
 
-## 📊 Estadísticas de Combate
-
-<div align="center"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Palomino128&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palomino128&layout=compact&theme=tokyonight" />
-</div>
-
-<br>
+## 📊 Estadísticas de Combate (Status)
 
 <div align="center">
-  <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=Palomino128&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palomino128&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes" height="190px" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Palomino128&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" height="190px" />
 </div>
+
+<div align="center">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Palomino128&theme=tokyonight&hide_border=true" alt="Streak" />
+</div>
+
+---
+
+## 🏆 Quest Log (Proyectos)
+
+* **🎡 Parque Temático (Java):** Simulación orientada a objetos.
+* **🎮 Videojuego (Java):** Desarrollo de mecánicas y eventos.
+* **🛍 UTP Marketplace (React):** Catálogo dinámico para estudiantes.
 
 ---
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3456FF,100:16D9E3&height=100&section=footer"/>
-  <p><b>Created by Edu Palomino | Leveling up every day 🚀</b></p>
+  <p><b>Leveling up every day 🚀</b></p>
 </div>
