@@ -1,8 +1,4 @@
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3456FF,100:16D9E3&height=180&section=header&text=Edu%20Palomino&fontSize=50&fontAlignY=35&animation=twinkling&desc=Ingeniero%20en%20Formación%20%7C%20Gamer&descAlignY=60&descAlign=50"/>
-</div>
 
-<div align="center">
   <img src="https://github.com/user-attachments/assets/f0d31fc7-6095-45d4-9af2-0775fd8f5ae2" width="160" style="border-radius:50%; border: 4px solid #16D9E3; box-shadow: 0 0 20px #3456FF;" alt="Avatar de Cesar Edu Palomino Berrocal"/>
   
   <br><br>
