@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3456FF,100:16D9E3&height=200&section=header&text=Edu%20Palomino&fontSize=50&fontAlignY=35&animation=twinkling&desc=Ingeniero%20de%20Sistemas%20|%20Gamer&descAlignY=60&descAlign=50"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3456FF,100:16D9E3&height=200&section=header&text=Edu%20Palomino&fontSize=50&fontAlignY=35&animation=twinkling&desc=Ingeniería+de+Sistemas+e+Informática|+Tecnología+|+IA&descAlignY=60&descAlign=50"/>
 </div>
 
 <div align="center">
@@ -7,43 +7,43 @@
 
   <br><br>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=600&size=16&pause=1000&color=16D9E3&center=true&vCenter=true&width=500&lines=Desarrollador+de+Software;Estudiante+UTP+-+Arequipa;Java+%7C+Python+%7C+React;Player+1+Ready" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=16D9E3&center=true&vCenter=true&width=550&lines=Futuro+Ingeniero+de+Sistemas;Entusiasta+de+la+Inteligencia+Artificial;Apasionado+por+nuevos+lenguajes;Aprendizaje+Tecnológico+Continuo" alt="Typing SVG" />
 
-  <p>📍 <b>Base: Arequipa, Perú 🇵🇪</b></p>
+  <p>📍 <b>Arequipa, Perú 🇵🇪 | Universidad Tecnológica del Perú (UTP)</b></p>
 </div>
 
 ---
 
-## 📜 Perfil del Jugador (About Me)
+## 🚀 Sobre mí (Professional Profile)
 
-Soy **Cesar Edu Palomino Berrocal**, un desarrollador en formación apasionado por el código limpio y los videojuegos. Me especializo en el diseño y análisis de software en la **UTP**, combinando la lógica de la ingeniería con la creatividad del gaming.
+Soy **Cesar Edu Palomino Berrocal**, estudiante de **Ingeniería de Sistemas e Informática**. Mi enfoque principal es el estudio profundo de los lenguajes de programación y la evolución constante de la tecnología. Actualmente, dedico gran parte de mi formación a investigar el impacto y la implementación de la **Inteligencia Artificial**.
 
-* 🚀 **Misión:** Construir soluciones funcionales y escalables.
-* ⚔️ **Especialidad:** Programación Orientada a Objetos y Desarrollo Web.
+* 📚 **En constante aprendizaje:** Explorando nuevas sintaxis y paradigmas de programación.
+* 🤖 **Interés en IA:** Análisis de modelos y automatización inteligente.
+* 🛠️ **Visión:** Desarrollar software de alto rendimiento con impacto tecnológico real.
 
 ---
 
-## 🎒 Inventario de Combate (Skills)
+## 🎒 Tecnologías y Lenguajes (Tech Stack)
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,react,html,css,js,mysql,git,github,vscode,idea&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,react,html,css,js,mysql,postgres,git,github,vscode,idea,pycharm&theme=dark" />
 </div>
 
 ---
 
+## 🏆 Proyectos Destacados (Portfolio)
 
-## 🏆 Quest Log (Proyectos Destacados)
-
-| Proyecto | Tech Stack | Descripción |
-| :--- | :---: | :--- |
-| **[🎡 Parque Temático](https://github.com/Palomino128)** | `Java` | Simulación OOP con gestión de tickets. |
-| **[🎮 Videojuego RPG](https://github.com/Palomino128)** | `Java` | Proyecto práctico con mecánicas y eventos. |
-| **[🛍 UTP Marketplace](https://github.com/Palomino128)** | `React` | E-commerce dinámico para estudiantes. |
-| **[🧾 Detector Plagio](https://github.com/Palomino128)** | `Java` | Algoritmos de comparación de texto. |
+| Proyecto | Áreas de Enfoque | Descripción |
+| :--- | :--- | :--- |
+| **[🎡 Parque Temático](https://github.com/Palomino128)** | `Lógica / OOP` | Implementación avanzada de Programación Orientada a Objetos. |
+| **[🧾 Detector de Plagio](https://github.com/Palomino128)** | `Algoritmos / IA` | Procesamiento de texto y análisis de similitudes lógicas. |
+| **[🛍 UTP Marketplace](https://github.com/Palomino128)** | `Web / React` | Desarrollo de plataforma escalable con componentes modernos. |
+| **[🏥 Sistema Hospital](https://github.com/Palomino128)** | `Arquitectura / SQL` | Estructuración de datos y flujos de información complejos. |
 
 ---
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3456FF,100:16D9E3&height=100&section=footer"/>
-  <p><b>Created by Edu Palomino | Leveling up every day 🚀</b></p>
+  <p><b>Comprometido con la innovación tecnológica y el aprendizaje constante 🚀</b></p>
 </div>
