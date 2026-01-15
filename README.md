@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/be75db2d-f200-45f5-861b-1c5b96feeb28" width="150" height="150" style="border-radius:50%; border: 5px solid #16D9E3; box-shadow: 0 0 20px #3456FF;" alt="Edu Palomino Profile"/>
+  <img src="https://github.com/user-attachments/assets/be75db2d-f200-45f5-861b-1c5b96feeb28" width="200" height="200" style="border-radius:50%; border: 5px solid #16D9E3; box-shadow: 0 0 20px #3456FF;" alt="Edu Palomino Profile"/>
 
   <br><br>
 
