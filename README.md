@@ -16,7 +16,7 @@
 
 ## 🚀 Sobre mí (Professional Profile)
 
-Soy **Cesar Edu Palomino Berrocal**, estudiante de **Ingeniería de Sistemas e Informática**. Mi enfoque principal es el estudio profundo de los lenguajes de programación y la evolución constante de la tecnología. Actualmente, dedico gran parte de mi formación a investigar el impacto y la implementación de la **Inteligencia Artificial**.
+Soy **Edu Palomino **, estudiante de **Ingeniería de Sistemas e Informática**. Mi enfoque principal es el estudio profundo de los lenguajes de programación y la evolución constante de la tecnología. Actualmente, dedico gran parte de mi formación a investigar el impacto y la implementación de la **Inteligencia Artificial**.
 
 * 📚 **En constante aprendizaje:** Explorando nuevas sintaxis y paradigmas de programación.
 * 🤖 **Interés en IA:** Análisis de modelos y automatización inteligente.
