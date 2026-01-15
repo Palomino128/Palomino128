@@ -1,6 +1,7 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3456FF,100:16D9E3&height=180&section=header&text=Edu%20Palomino&fontSize=50&fontAlignY=35&animation=twinkling&desc=Ingeniero%20en%20Formación%20%7C%20Gamer&descAlignY=60&descAlign=50"/>
 </div>
+<img width="1024" height="1018" alt="perfil" src="https://github.com/user-attachments/assets/be75db2d-f200-45f5-861b-1c5b96feeb28" />
 
 <div align="center">
 
