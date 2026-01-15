@@ -57,12 +57,15 @@ Soy **Cesar Edu**, un desarrollador en formación apasionado por el código limp
 ## 📊 Estadísticas de Combate
 
 <div align="center"> 
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Palomino128&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palomino128&layout=compact&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Palomino128&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palomino128&layout=compact&theme=tokyonight" />
 </div>
 
+<br>
+
 <div align="center">
-  <img width="80%" src="https://streak-stats.demolab.com?user=Palomino128&theme=radical&hide_border=true" />
+  <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=Palomino128&theme=tokyonight" />
 </div>
 
 ---
