@@ -8,7 +8,7 @@
   <br><br>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3456FF&center=true&vCenter=true&width=435&lines=Desarrollador+de+Software;Estudiante+UTP+-+Arequipa;Java+%7C+Python+%7C+React;Player+1+Ready" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=16D9E3&center=true&vCenter=true&width=435&lines=Desarrollador+de+Software;Estudiante+UTP+-+Arequipa;Java+%7C+Python+%7C+React;Player+1+Ready" alt="Typing SVG" />
   </a>
 </div>
 
@@ -32,15 +32,13 @@ Soy **Cesar Edu**, un desarrollador en formación apasionado por el código limp
 
 ## 🏆 Quest Log (Proyectos Destacados)
 
-Aquí yacen mis proyectos más importantes. *Haz clic en el nombre para ver el código (Recuerda poner tus links).*
-
 | Proyecto | Tech Stack | Descripción |
 | :--- | :---: | :--- |
-| **[🎡 Parque Temático](LINK-AQUI)** | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white) | Simulación OOP con gestión de tickets y restricciones lógicas. |
-| **[🎮 Videojuego RPG](LINK-AQUI)** | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white) | Proyecto práctico con mecánicas básicas, eventos y modularidad. |
-| **[🧾 Detector de Plagio](LINK-AQUI)** | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white) | Algoritmos de comparación de texto y procesamiento de datos. |
-| **[🛍 UTP Marketplace](LINK-AQUI)** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | E-commerce web con catálogo dinámico y componentes reutilizables. |
-| **[🏥 Sistema Hospital](LINK-AQUI)** | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white) | Gestión administrativa de pacientes y estructuras de datos. |
+| **[🎡 Parque Temático](https://github.com/Palomino128)** | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white) | Simulación OOP con gestión de tickets y restricciones lógicas. |
+| **[🎮 Videojuego RPG](https://github.com/Palomino128)** | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white) | Proyecto práctico con mecánicas básicas, eventos y modularidad. |
+| **[🧾 Detector de Plagio](https://github.com/Palomino128)** | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white) | Algoritmos de comparación de texto y procesamiento de datos. |
+| **[🛍 UTP Marketplace](https://github.com/Palomino128)** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | E-commerce web con catálogo dinámico y componentes reutilizables. |
+| **[🏥 Sistema Hospital](https://github.com/Palomino128)** | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white) | Gestión administrativa de pacientes y estructuras de datos. |
 
 ---
 
@@ -59,19 +57,17 @@ Aquí yacen mis proyectos más importantes. *Haz clic en el nombre para ver el c
 ## 📊 Estadísticas de Combate
 
 <div align="center"> 
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Palomino128&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palomino128&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Palomino128&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palomino128&layout=compact&theme=radical&hide_border=true" />
 </div>
 
-<br>
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Palomino128&theme=tokyonight&hide_border=true&background=0d1117" />
+  <img width="80%" src="https://streak-stats.demolab.com?user=Palomino128&theme=radical&hide_border=true" />
 </div>
 
 ---
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3456FF,100:16D9E3&height=100&section=footer"/>
-  <p>Created by Edu Palomino | Leveling up every day 🚀</p>
+  <p><b>Created by Edu Palomino | Leveling up every day 🚀</b></p>
 </div>
