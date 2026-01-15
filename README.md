@@ -4,7 +4,7 @@
 <div align="center">
   <!-- Avatar -->
   <img width="1024" height="1536" alt="Chibi" src="https://github.com/user-attachments/assets/f0d31fc7-6095-45d4-9af2-0775fd8f5ae2"
-width="120px" style="border-radius:50%; margin-bottom:10px;" alt="Avatar de Edu Palomino"/>
+, width="120px" style="border-radius:50%; margin-bottom:10px;" alt="Avatar de Edu Palomino"/>
   
   <h2><strong>Desarrollador de Software</strong></h2>
   <p>Estudiante de Ingeniería en Computación</p>
