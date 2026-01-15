@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-   <img src="https://github.com/user-attachments/assets/be75db2d-f200-45f5-861b-1c5b96feeb28" width="150" height="150" style="border-radius:50%; border: 5px solid #16D9E3; box-shadow: 0 0 20px #3456FF;" alt="Edu Palomino Profile"/>
+   <img src="https://github.com/user-attachments/assets/f0d31fc7-6095-45d4-9af2-0775fd8f5ae2" width="160" style="border-radius:50%; border: 4px solid #16D9E3; box-shadow: 0 0 20px #3456FF;" alt="Avatar de Cesar Edu Palomino Berrocal"/>
 
   <br><br>
 
