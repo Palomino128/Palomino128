@@ -1,111 +1,77 @@
-<!-- Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3456FF,100:16D9E3&height=170&section=header&text=Edu%20Palomino&fontSize=45&fontAlignY=32&animation=twinkling"/>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3456FF,100:16D9E3&height=180&section=header&text=Edu%20Palomino&fontSize=50&fontAlignY=35&animation=twinkling&desc=Ingeniero%20en%20Formación%20%7C%20Gamer&descAlignY=60&descAlign=50"/>
+</div>
 
 <div align="center">
-  <!-- Avatar -->
-  <img width="1024" height="1536" alt="Chibi" src="https://github.com/user-attachments/assets/f0d31fc7-6095-45d4-9af2-0775fd8f5ae2"
-, width="120px" style="border-radius:50%; margin-bottom:10px;" alt="Avatar de Edu Palomino"/>
+  <img src="https://github.com/user-attachments/assets/f0d31fc7-6095-45d4-9af2-0775fd8f5ae2" width="160" style="border-radius:50%; border: 4px solid #16D9E3; box-shadow: 0 0 20px #3456FF;" alt="Avatar de Edu Palomino"/>
   
-  <h2><strong>Desarrollador de Software</strong></h2>
-  <p>Estudiante de Ingeniería en Computación</p>
-  <p><strong>Perú — Arequipa</strong></p>
+  <br><br>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3456FF&center=true&vCenter=true&width=435&lines=Desarrollador+de+Software;Estudiante+UTP+-+Arequipa;Java+%7C+Python+%7C+React;Player+1+Ready" alt="Typing SVG" />
+  </a>
 </div>
 
----
+<div align="center">
+  
+  ---
+  ### 📍 Base: Arequipa, Perú 🇵🇪
+  ---
+  
+</div>
 
-## 🧾 Presentación Profesional
+## 📜 Perfil del Jugador (About Me)
 
-Soy un desarrollador en formación con interés en el diseño, implementación y análisis de software. Poseo experiencia académica y práctica en programación orientada a objetos, desarrollo web, estructuras de datos y gestión básica de proyectos. Mi objetivo es construir soluciones funcionales mientras continuo perfeccionando mis habilidades y conocimientos en tecnología.
+Soy **Cesar Edu**, un desarrollador en formación apasionado por el código limpio y los videojuegos. Me especializo en el diseño y análisis de software, combinando la lógica de la ingeniería con la creatividad del gaming.
 
----
-
-## 🎓 Formación Académica
-
-**Ingeniería de Sistema e Informatica**  
-Universidad Tecnológica del Perú (UTP)
-
-**Áreas de interés:**
-- Desarrollo de Software
-- Programación Orientada a Objetos
-- Desarrollo Web
-- Arquitectura de Software
-- Proyectos de Software
-- Simulación y Automatización
+* 🔭 **Actualmente:** Cursando Ingeniería de Sistemas e Informática en la **UTP**.
+* 🎯 **Objetivo:** Construir soluciones funcionales (y subir de nivel en mis habilidades).
+* 💡 **Intereses:** Programación Orientada a Objetos, Desarrollo Web y Automatización.
 
 ---
 
-## 📁 Proyectos Destacados
+## 🏆 Quest Log (Proyectos Destacados)
 
-**🎡 Parque Temático (Java)**  
-> Simulación orientada a objetos con gestión de tickets, restricciones y reglas. Proyecto académico que refuerza diseño y lógica.
+Aquí yacen mis proyectos más importantes. *Haz clic en el nombre para ver el código (Recuerda poner tus links).*
 
-**🎮 Videojuego (Java)**  
-> Proyecto práctico de programación con mecánicas básicas, eventos y modularidad.
-
-**🧾 Detector de Plagio (Java)**  
-> Analiza similitud entre textos. Aplicación orientada a la práctica de algoritmos y procesamiento.
-
-**🛍 UTP Marketplace (React)**  
-> Desarrollo web con catálogo dinámico, usando React y componentes reutilizables.
-
-**🏥 Sistema Hospital (Java)**  
-> Sistema académico centrado en administración de pacientes y estructura de datos.
+| Proyecto | Tech Stack | Descripción |
+| :--- | :---: | :--- |
+| **[🎡 Parque Temático](LINK-AQUI)** | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white) | Simulación OOP con gestión de tickets y restricciones lógicas. |
+| **[🎮 Videojuego RPG](LINK-AQUI)** | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white) | Proyecto práctico con mecánicas básicas, eventos y modularidad. |
+| **[🧾 Detector de Plagio](LINK-AQUI)** | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white) | Algoritmos de comparación de texto y procesamiento de datos. |
+| **[🛍 UTP Marketplace](LINK-AQUI)** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | E-commerce web con catálogo dinámico y componentes reutilizables. |
+| **[🏥 Sistema Hospital](LINK-AQUI)** | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white) | Gestión administrativa de pacientes y estructuras de datos. |
 
 ---
 
-## 🧩 Proyectos Personales & Hobby Dev
-
-Me motivan los proyectos orientados a:
-
-- Simulación digital
-- Videojuegos
-- Automatización
-- Soluciones creativas
-- Ejercicios y retos de programación
-
----
-
-## 🛠️ Tecnologías y Herramientas
+## 🎒 Inventario (Skills)
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+| Lenguajes | Frontend & Frameworks | Herramientas |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=java,python,cpp" /> | <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,js" /> | <img src="https://skillicons.dev/icons?i=git,github,vite,vscode,idea" /> |
 
 </div>
 
 ---
 
-## 📈 Actividad y Métricas
+## 📊 Estadísticas de Combate
 
-<div align="center">
-
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=Palomino128&show_icons=true&theme=default&hide_border=true"/>
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palomino128&layout=compact&theme=default&hide_border=true"/>
-
+<div align="center"> 
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Palomino128&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palomino128&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </div>
 
+<br>
+
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=Palomino128&theme=default&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Palomino128&theme=tokyonight&hide_border=true&background=0d1117" />
 </div>
 
 ---
 
-## 📫 Contacto
-
-📧 Correo: *(agregar)*  
-🔗 LinkedIn: *(agregar)*  
-🌐 Portafolio: *(opcional)*  
-
----
-
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3456FF,100:16D9E3&height=120&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3456FF,100:16D9E3&height=100&section=footer"/>
+  <p>Created by Edu Palomino | Leveling up every day 🚀</p>
 </div>
