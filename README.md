@@ -1,7 +1,9 @@
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3456FF,100:16D9E3&height=180&section=header&text=Edu%20Palomino&fontSize=50&fontAlignY=35&animation=twinkling&desc=Ingeniero%20en%20Formación%20%7C%20Gamer&descAlignY=60&descAlign=50"/>
+</div>
 
-  <img src="https://github.com/user-attachments/assets/f0d31fc7-6095-45d4-9af2-0775fd8f5ae2" width="160" style="border-radius:50%; border: 4px solid #16D9E3; box-shadow: 0 0 20px #3456FF;" alt="Avatar de Cesar Edu Palomino Berrocal"/>
-  
-  <br><br>
+<div align="center">
+
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=16D9E3&center=true&vCenter=true&width=435&lines=Desarrollador+de+Software;Estudiante+UTP+-+Arequipa;Java+%7C+Python+%7C+React;Player+1+Ready" alt="Typing SVG" />
